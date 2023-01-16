@@ -1,4 +1,4 @@
 ## Pyspark_tutorial
 
-![alt text]('img/pyspark.im')
+![alt text](img/pyspark.im)
 
