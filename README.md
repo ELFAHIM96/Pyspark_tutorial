@@ -10,8 +10,15 @@ Spark SQL is a Spark module for structured data processing, in addition it provi
 PySpark DataFrame From an Existing RDD
 PySpark DataFrame From an External File
 
-### MLlib
 
+
+### MLlib
+MLlib is a machine learning API in Apache Spark, it supports diffrent kind of algorithms:
+* mllib.classification support various methods for binary classification, multiclass classification and regression analysis. 
+* MLlib.regression Linear regression belongs to the family of regression algorithms
+* mllib clustering : Clustering is an supervised learning problem, whereby using some notion of similarity you aim to group subsets of entities with one another 
+* mllib.linalg MLlib utilities for linear algebra
+* 
 
 ### Streaming 
 the streaming feature in Apache Spark enables powerful interactive and analytical applications across both streaming and historical data.
